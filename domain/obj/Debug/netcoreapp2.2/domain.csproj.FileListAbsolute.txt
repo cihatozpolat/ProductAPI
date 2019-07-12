@@ -1,0 +1,12 @@
+C:\Users\cozpolat\ProductAPI\domain\bin\Debug\netcoreapp2.2\domain.deps.json
+C:\Users\cozpolat\ProductAPI\domain\bin\Debug\netcoreapp2.2\domain.dll
+C:\Users\cozpolat\ProductAPI\domain\bin\Debug\netcoreapp2.2\domain.pdb
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.csprojAssemblyReference.cache
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.csproj.CoreCompileInputs.cache
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.AssemblyInfoInputs.cache
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.AssemblyInfo.cs
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.dll
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.pdb
+C:\Users\cozpolat\ProductAPI\domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cozpolat\ProductAPI\domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\cozpolat\ProductAPI\domain\obj\Debug\netcoreapp2.2\domain.csproj.CopyComplete

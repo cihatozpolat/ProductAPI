@@ -1,0 +1,17 @@
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\Host.deps.json
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\Host.runtimeconfig.json
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\Host.runtimeconfig.dev.json
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\Host.dll
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\Host.pdb
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\domain.dll
+C:\Users\cozpolat\ProductAPI\host\bin\Debug\netcoreapp2.2\domain.pdb
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.csprojAssemblyReference.cache
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.csproj.CoreCompileInputs.cache
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.RazorAssemblyInfo.cache
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.RazorAssemblyInfo.cs
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.AssemblyInfoInputs.cache
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.AssemblyInfo.cs
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.RazorTargetAssemblyInfo.cache
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.csproj.CopyComplete
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.dll
+C:\Users\cozpolat\ProductAPI\host\obj\Debug\netcoreapp2.2\Host.pdb

@@ -1,0 +1,5 @@
+// VSCode: Place your settings in this file to overwrite the default settings
+{
+    "http.proxy": "http://cozpolat:Helalolsun553@iproxy.innova.com.tr:8080",
+    "http.proxyStrictSSL": false
+  }
